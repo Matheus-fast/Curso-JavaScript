@@ -1,0 +1,5 @@
+Dicas
+Maiusculas e minusculas tem diferença
+
+Temte escolher nomes coerentes para as variáveis, como exemplo salvar o nome coloque var nome = "Matheus"
+

@@ -1,0 +1,14 @@
+String > Número 
+
+Number.parseInt(n) forçar inteira
+Number.parseFloat(n) forçar real
+
+Number(n) js decida se é inteiro ou se e real
+
+Número > String
+
+String(n)  
+n.toString()
+
+
+N = O VALOR QUE QUERO CONVERTER

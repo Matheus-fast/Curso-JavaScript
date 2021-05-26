@@ -1,0 +1,10 @@
+Data types
+
+Number
+String
+Boolean
+Null
+undefined
+object
+Array
+function

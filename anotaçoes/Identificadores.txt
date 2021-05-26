@@ -1,0 +1,14 @@
+identificadores regras
+
+SÓ podem começar com letra, $ ou _
+
+Não podem começar com números 
+
+É podessível usar letras ou números
+
+É possível usar acentos e símbolos
+
+Não podem conter espaços, podem ser substituidos por _
+
+Não podem ser palavras reservadas que seria um comando
+

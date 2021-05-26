@@ -1,0 +1,10 @@
+Comentários em HTML5, CSS3 e Js
+
+HTML <!--- comentario --->
+
+Css /* comentario */
+
+Js // Comentario /* para mais de uma linha 
+
+adsa */
+

@@ -1,0 +1,6 @@
+Formatando Números
+
+var n1 = 1543.5
+n1
+n1.toFixed(2)
+n1.toLocaleString('pt-BR', {style: 'currency',currency: 'BRL'})

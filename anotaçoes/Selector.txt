@@ -1,0 +1,2 @@
+Query Selector para chamar por id sera ('div#msg')
+Quando for Class sera ('div.msg')
